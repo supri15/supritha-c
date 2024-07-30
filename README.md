@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm supritha c</h1>
-<img src="https://static.vecteezy.com/system/resources/thumbnails/002/949/141/small/programming-code-coding-or-hacker-background-vector.jpg" align="center" height="300" width="800"> 
+<img src="https://static.vecteezy.com/system/resources/thumbnails/002/949/141/small/programming-code-coding-or-hacker-background-vector.jpg" align="center" height="400" width="1000"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supri15&label=Profile%20views&color=0e75b6&style=flat" width="100" alt="supri15" /> </p>
 
