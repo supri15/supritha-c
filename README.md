@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm supritha c</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="C:\Users\Supritha\OneDrive\Desktop\creative-binary-coding-wallpaper-software-260nw-2399863897.webp" width="400" alt="coding"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supri15&label=Profile%20views&color=0e75b6&style=flat" alt="supri15" /> </p>
 
