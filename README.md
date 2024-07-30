@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supri15&label=Profile%20views&color=0e75b6&style=flat" width="100" alt="supri15" /> </p>
 
-- 🔭 I’m currently working on [Machine leaning project](mlproject/medical insurance cost.ipynb)
+- 🔭 I’m currently working on [Machine leaning project]
 
 - 🌱 I’m currently learning **flask, Data Structures, Algorithms**
 
